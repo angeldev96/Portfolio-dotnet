@@ -2,6 +2,7 @@
 using Portfolio_dotnet.Models;
 using System.Diagnostics;
 
+
 namespace Portfolio_dotnet.Controllers
 {
     public class HomeController : Controller
@@ -15,6 +16,7 @@ namespace Portfolio_dotnet.Controllers
 
         public IActionResult Index()
         {
+           
             return View();
         }
 

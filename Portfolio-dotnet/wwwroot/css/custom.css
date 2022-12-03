@@ -3,3 +3,33 @@
         margin: 2rem 0;
         border-radius: 50%
 }
+
+
+.seccion-info{
+
+
+
+}
+
+.seccion-info h5 {
+    color: white;
+    font: sans-seriff;
+}
+
+#imagen-dotnet{
+
+    width: 500px;
+
+}
+
+
+.background-prime {
+    background: linear-gradient(to bottom right, #561139, #38A2D7);
+}
+
+.background-primee {
+    background: #780206; /* fallback for old browsers */
+    linear-gradient(to bottom right, #305170, #6DFC6B);
+    background: -webkit-linear-gradient(to right, #061161, #780206); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #061161, #780206); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
